@@ -1,0 +1,6 @@
+19:30:36.479 [TestNG-tests-2] INFO  resources.base - Create Account Tab text Spelling is Right
+19:30:38.942 [TestNG-tests-4] INFO  resources.base - WebPage Logo is Available
+19:30:39.022 [TestNG-tests-4] INFO  resources.base - Enterprises Text is Available
+19:30:51.887 [TestNG-tests-3] INFO  resources.base - Users Verified Successfully
+19:30:54.215 [TestNG-tests-3] INFO  resources.base - Navigated to Forgot Password Page
+19:30:59.116 [TestNG-tests-3] INFO  resources.base - Users Verified Successfully

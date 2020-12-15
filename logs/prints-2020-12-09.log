@@ -1,0 +1,7 @@
+21:56:53.633 [main] INFO  resources.base - Browser Launched Successfully
+21:56:53.649 [main] ERROR resources.base - Browser not Invoked
+21:57:14.129 [main] INFO  resources.base - Users Verified Successfully
+21:57:19.132 [main] INFO  resources.base - Navigated to Forgot Password Page
+21:57:21.146 [main] INFO  resources.base - Users Verified Successfully
+21:57:23.676 [main] INFO  resources.base - Navigated to Forgot Password Page
+21:57:57.056 [TestNG-tests-3] INFO  resources.base - Browser Launched Successfully
