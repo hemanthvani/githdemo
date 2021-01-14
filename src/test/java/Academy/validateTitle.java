@@ -5,6 +5,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.Logger;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
+import org.testng.IDynamicGraph.Status;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -24,6 +25,7 @@ public class validateTitle extends base{
 		driver=InitalizeDriver();
 		driver.manage().window().maximize();
 		driver.get(prop.getProperty("url"));
+		log.info(Status.FINISHED, "Url Navigated to HomePage");
 		
 	}
 	

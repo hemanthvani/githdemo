@@ -19,6 +19,7 @@ public class AppTest
     {
         super( testName );
         System.out.println(testName);
+        System.out.println("Im changing my code in APP");
     }
 
     /**
