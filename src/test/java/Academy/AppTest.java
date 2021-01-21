@@ -20,6 +20,7 @@ public class AppTest
         super( testName );
         System.out.println(testName);
         System.out.println("Im changing my code in APP");
+        System.out.println("Im changing my code in E2E Project");
     }
 
     /**
